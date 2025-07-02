@@ -1,5 +1,4 @@
-# All three projects are console-based, written in Python
-# Each section uses a simple *menu-driven interface* so you can test functions one by one.
+🌱 *All three projects are console-based, written in Python - Each section uses a simple **menu-driven interface** so you can test functions one by one.*
 
 # 1. Hospital Management System 🏥
 This project was created as part of my university coursework to demonstrate how **basic CRUD (Create, Read, Update, Delete) operations** can be used to manage patients, rooms, physicians, and transactions in a hospital environment.
